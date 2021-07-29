@@ -1,2 +1,2 @@
-# tcc
-tcc
+# https://megaziriu.github.io/tcc/
+
